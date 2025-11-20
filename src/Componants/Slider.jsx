@@ -38,7 +38,10 @@ export default function Slider()
                     <h5 className="mb-0">Blood Donor</h5>
                     {/*<p>Profession</p>*/} <br/>
                     <div className="testimonial-text bg-light text-center p-4">
-                    <p className="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p className="mb-0">"Donate blood, save lives—be someone's hero today."
+                       "Every drop you give brings hope to those in need."
+                       "Join us in creating a healthier, stronger community."
+                       "Your generosity is the gift of life—donate now."</p>
                     </div>
                 </div>
                 <div className="testimonial-item text-center">
@@ -46,7 +49,10 @@ export default function Slider()
                     <h5 className="mb-0">Blood Donor</h5>
                     {/*<p>Profession</p>*/} <br/>
                     <div className="testimonial-text bg-light text-center p-4">
-                    <p className="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p className="mb-0">"Give blood, give lifebe the miracle someone is waiting for."
+                     "A tiny act of kindness, a lifetime of impact."
+                     "Your blood is a gift of hope, healing, and second chances."
+                     "Heroes aren’t born—they donate."</p>
                     </div>
                 </div>
             </div>

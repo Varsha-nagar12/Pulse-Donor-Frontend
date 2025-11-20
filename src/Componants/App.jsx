@@ -5,8 +5,7 @@ import About from "./About";
 import Contact from "./Contact";
 import Register from "./Register";
 import Login from "./Login" ;
-// import Contact from "./Componants/Contact";
-// import Register from "./Componants/Register";
+
 export default function App()
 {
   return <>
@@ -18,7 +17,7 @@ export default function App()
     <Route path="/register" element={<Register/>}/>
     <Route path="/login" element={<Login/>}></Route>
 
-    {/* <Route path="/register" element={<Register/>}/> */}
+  
 
 
   </Routes>
