@@ -23,7 +23,6 @@ const slice = createSlice({
             role : undefined,
             token : undefined
         }
-       
      },
 
      setdonor : (state, action)=>
